@@ -8,7 +8,7 @@ else:
     print("Het getal is nul.")
 
 # wat wordt er geprint als ik als ik het getal
-# -5 invoer?
-# -1 invoer?
-# 0 invoer?
-# 1 invoer?
+# -5 invoer? het getal is negatief.
+# -1 invoer? het getal is negatief.
+# 0 invoer? het getal is nul.
+# 1 invoer? het getal is positief.
